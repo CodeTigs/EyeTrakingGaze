@@ -1,0 +1,2 @@
+C:\Program Files (x86)\GazePointer\GazePointer\GazePointer.exe: Acesso negado.
+Processados com sucesso 0 arquivos; falha no processamento de 1 arquivos
