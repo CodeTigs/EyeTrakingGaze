@@ -11,5 +11,3 @@ set "usuario=BUILTIN\Usuários"
 
 REM Usar o comando runas para executar o .exe com outro usuário
 runas /user:%usuario% "%executavel%"
-
-::<|°_°|>
